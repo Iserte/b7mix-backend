@@ -1,0 +1,5 @@
+node_modules
+public
+.env
+csgo-server.db
+package-lock.json
